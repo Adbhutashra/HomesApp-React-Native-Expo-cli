@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "address": "123 Main St",
+    "image": "https://i.pinimg.com/1200x/d7/91/bd/d791bde3c13070d369ff7e3342efd23a.jpg",
+    "description": "A cozy little home in the city center.",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": "2",
+    "address": "456 Elm St",
+    "image": "https://cdn.houseplansservices.com/product/si3lgiouiuap9scoj2lers3s0i/w560x373.jpg?v=3",
+    "description": "A beautiful suburban home.",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": "3",
+    "address": "789 MG Road, Indore, MP",
+    "image": "https://i.pinimg.com/736x/e6/b6/87/e6b6879516fe0c7e046dfc83922626d6.jpg",
+    "description": "A modern home near the heart of Indore city.",
+    "latitude": 22.7196,
+    "longitude": 75.8577
+  },
+  {
+    "id": "4",
+    "address": "101 AB Road, Indore, MP",
+    "image": "https://i.pinimg.com/736x/c2/9f/d6/c29fd697254663a86460992bb4a62a52.jpg",
+    "description": "A luxurious home on AB Road, perfect for families.",
+    "latitude": 22.7072,
+    "longitude": 75.8777
+  },
+  {
+    "id": "5",
+    "address": "202 Vijaynagar, Indore, MP",
+    "image": "https://www.tennessean.com/gcdn/presto/2019/10/11/PNAS/adf1101a-0f8c-404f-9df3-5837bf387dfd-1_Exterior_House_Beautiful_Whole_Home_Concept_House_Castle_Homes_Photo_Reed_Brown_Photography.jpg?crop=5619,3161,x0,y104&width=3200&height=1801&format=pjpg&auto=webp",
+    "description": "A spacious home located in the peaceful Vijaynagar area.",
+    "latitude": 22.7453,
+    "longitude": 75.8986
+  },
+  {
+    "id": "6",
+    "address": "303 Rajwada, Indore, MP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rajwada_Palace%2C_Indore.jpg/640px-Rajwada_Palace%2C_Indore.jpg",
+    "description": "A historical home near the famous Rajwada palace.",
+    "latitude": 22.7177,
+    "longitude": 75.8334
+  },
+  {
+    "id": "7",
+    "address": "404 Palasia, Indore, MP",
+    "image": "https://merahoardings.com/wp-content/uploads/2020/08/Hoarding-Advertising-New-Palasia.jpg",
+    "description": "A contemporary home with a garden in Palasia.",
+    "latitude": 22.7302,
+    "longitude": 75.8746
+  },
+  {
+    "id": "8",
+    "address": "505 Bicholi Mardana, Indore, MP",
+    "image": "https://homezonline.in/wp-content/uploads/2022/07/Simple-home-design.jpg",
+    "description": "A modern home with state-of-the-art amenities in Bicholi Mardana.",
+    "latitude": 22.7000,
+    "longitude": 75.9120
+  }
+]
